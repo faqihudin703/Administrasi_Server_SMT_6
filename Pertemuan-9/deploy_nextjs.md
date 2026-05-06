@@ -17,6 +17,7 @@
   ```
 
 ![alt text](image-1.png)
+![alt text](image-6.png)
 
 - Buat static file: `npm run build`
 

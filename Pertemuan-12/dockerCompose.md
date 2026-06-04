@@ -1,7 +1,3 @@
-Ini hanya perlu sedikit modifikasi teks di Markdown — tidak perlu SKILL untuk itu. Langsung diparafrasekan sedikit biar tidak terasa duplikat:
-
----
-
 # Deploy Multiple Container menggunakan Docker Compose
 
 1. Jalankan Instance EC2 di AWS
